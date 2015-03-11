@@ -1,11 +1,9 @@
 # urartian-english
 urartian - english dictionary
 
-PROTO-LANGUAGE PHONEMES
+Urartian glossary abstracted from
 
-in IE and Hurrian-Urartian
-
-by Patrick C. Ryan
+Melikišvili, G. A. 1971. Die Urartäische Sprache. A. Kammenhuber, M. Salvini. Studia Pohl 7. Rome: Biblical Institute Press 
 
 document was available at HTTP://WWW.GEOCITIES.COM/Athens/Forum/2803/c-HURRIAN-URARTIAN-9_Urartian-Glossary.htm
 
