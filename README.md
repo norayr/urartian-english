@@ -7,6 +7,7 @@ Melikišvili, G. A. 1971. Die Urartäische Sprache. A. Kammenhuber, M. Salvini. 
 
 document was available at HTTP://WWW.GEOCITIES.COM/Athens/Forum/2803/c-HURRIAN-URARTIAN-9_Urartian-Glossary.htm
 
+archive can be found [here](http://www.oocities.org/proto-language/c-HURRIAN-URARTIAN-9_Urartian-Glossary.htm)
 
 first S is Melikišvili s with inferior dot 
 
